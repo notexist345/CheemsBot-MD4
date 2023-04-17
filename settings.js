@@ -63,10 +63,10 @@ global.location = "India, Assam, moran " //ur location
 //bot bomdy 
 global.owner = ['919127532104']
 global.ownertag = '919127532104' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/notexist345/CheemsBot-MD4' //script link
+global.botname = 'Not exist's bot' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
+global.websitex = "" //ur website to be displayed
+global.botscript = 'https://github.com/xeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Not exist Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
